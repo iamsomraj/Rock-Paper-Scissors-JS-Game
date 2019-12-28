@@ -12,7 +12,7 @@ Rock Paper Scissors JS Game is a basic JS game where the user and computer picks
 2. Working with the console
 3. Implementing arrow functions
 4. Using Math.random() to generate random number
-5. Understanding default arguments in fu
+5. Understanding default arguments in functions
 
 ## Developer
 
